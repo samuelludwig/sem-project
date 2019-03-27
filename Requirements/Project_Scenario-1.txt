@@ -45,9 +45,9 @@ document (a list of requirements gathered from this handout and questions that c
 
 3. ERM Diagram
 
-4. Training Plan
+4. Training Plan - How to train new users of the product 
 
-5. Security Plan
+5. Security Plan - How is security going to be handled for this system, how will information be protected
 
 6. User Interface Design – including screen shots and/or diagrams of the UI
 
