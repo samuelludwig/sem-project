@@ -39,7 +39,7 @@ Deliverables
 document (a list of requirements gathered from this handout and questions that come up during the analysis).
 
 2. A set of process models including, at a minimum:
-	Five Event Diagrams (Use Cases)
+	Use Case Documents
 	Data Flow Diagrams (High level and detailed)
 	A System Diagram (Block diagram of the systems required to complete the project)
 
