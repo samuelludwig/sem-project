@@ -36,9 +36,10 @@
 
 - ID
 - Name
+- Wage (?)
 - Job Title
 - List Of Assigned Projects
-- List Of Hours Worked On Each Project
+- List Of Hours Worked On Each Project (*)
 - List Of Associated Drawings/Models
 
 ***
