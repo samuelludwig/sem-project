@@ -6,7 +6,6 @@
 
 - ID
 - Parts List
-- List Of Purchasers(?)
 
 ***
 
@@ -14,8 +13,7 @@
 
 - ID
 - List Of Programs Its Used In
-- Origin(?)
-- Cost To Buy/Manufacture(?)
+- Cost To Buy/Manufacture
 - Amount In Inventory
 - List Of Associated Drawings
 
@@ -27,8 +25,7 @@
 - Customer Name
 - List Of Items (Aircraft/Programs) Ordered
 - Order Total
-- Date Ordered(?)
-- Date Delivered/To Be Delivered(?)
+- Date Ordered
 
 ***
 
@@ -36,7 +33,7 @@
 
 - ID
 - Name
-- Wage (?)
+- Wage
 - Job Title
 - List Of Assigned Projects
 - List Of Hours Worked On Each Project (*)
@@ -50,9 +47,9 @@
 - Drawing Name
 - Part Name
 - List Of Associated Engineers
-- List Of Changes Made(*?)
+- List Of Changes Made
 - Last Update Date
-- Last Update Author(?)
+- Last Update Author
 
 ***
 
