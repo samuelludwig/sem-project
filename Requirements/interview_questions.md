@@ -34,3 +34,6 @@
 
 - Q: Will all 300 employees need to learn how to operate the software?
   - A:
+
+- What level of security is required?
+  - Maximum security, many contracts are for military applications.
