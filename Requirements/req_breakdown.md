@@ -48,7 +48,7 @@
   - customer
   - order total (dollar amount)
   - items ordered
-  - date(?)
+  - date
   - order id
 
 ***
