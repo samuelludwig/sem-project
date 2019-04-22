@@ -13,10 +13,18 @@
 [ ] UI Designs (Diagram) - 10
 [ ] Executive Summary - 5
 
-[ ] Use Case Document (Aircraft) - 10
-[ ] Use Case Document (Part) - 10
-[ ] Use Case Document (Order) - 10
-[ ] Use Case Document (Employee) - 10
-[ ] Use Case Document (Drawing/Model) - 10
+[ ] Use Case Documents (TOTAL: 50)
+
+- Title
+- Description
+- Step by Step
+- IO
+- Exceptions
+
+    [ ] Use Case Document (Aircraft) - 10
+    [ ] Use Case Document (Part) - 10
+    [ ] Use Case Document (Order) - 10
+    [ ] Use Case Document (Employee) - 10
+    [ ] Use Case Document (Drawing/Model) - 10
 
 Remaining: 139/144
