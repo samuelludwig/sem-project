@@ -23,10 +23,10 @@
     - Exceptions
     ```
 
-  - [ ] Use Case Document (Aircraft) - 10
+  - [x] Use Case Document (Aircraft) - 10
   - [ ] Use Case Document (Part) - 10
   - [ ] Use Case Document (Order) - 10
   - [ ] Use Case Document (Employee) - 10
   - [ ] Use Case Document (Drawing/Model) - 10
 
-Remaining: 114/129
+Remaining: 104/129
