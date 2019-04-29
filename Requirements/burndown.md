@@ -9,11 +9,11 @@
 - [ ] System Diagram - 10
 - [ ] ERM Diagram - 8
 - [ ] Training Plan - 8
-- [ ] Security Plan - 8
+- [x] Security Plan - 8
 - [ ] UI Designs (Diagram) - 10
 - [ ] Executive Summary - 5
 
-- [ ] Use Case Documents (TOTAL: 50)
+- [x] Use Case Documents (TOTAL: 50)
 
     ```LaTeX
     - Title
@@ -31,4 +31,4 @@
   - [x] Use Case Document (Drawing/Model Creation) - 5
   - [x] Use Case Document (Drawing/Model Update) - 5
 
-Remaining: 64/129
+Remaining: 56/129
