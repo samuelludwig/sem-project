@@ -25,8 +25,10 @@
 
   - [x] Use Case Document (Aircraft) - 10
   - [x] Use Case Document (Part) - 10
-  - [ ] Use Case Document (Order) - 10
-  - [ ] Use Case Document (Employee) - 10
-  - [ ] Use Case Document (Drawing/Model) - 10
+  - [x] Use Case Document (Order) - 10
+  - [x] Use Case Document (Employee Creation) - 5
+  - [x] Use Case Document (Employee Update) - 5
+  - [x] Use Case Document (Drawing/Model Creation) - 5
+  - [x] Use Case Document (Drawing/Model Update) - 5
 
-Remaining: 94/129
+Remaining: 64/129

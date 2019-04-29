@@ -6,7 +6,7 @@
 **Date Created:** April 24th, 2019
 
 **Last Updated By:** Samuel Ludwig
-**Last Revision Date:** April 24th, 2019
+**Last Revision Date:** April 27th, 2019
 
 ***
 
@@ -21,7 +21,7 @@
 **IO:**
 
 Inputs: Part amounts, amount of each aircraft.
-Outputs: Either no output, or an order is made -> depending on evaluation of step 2.
+Outputs: Either no output, or a part order is made- depending on evaluation of step 2.
 
 **Exceptions:**
 
