@@ -8,7 +8,7 @@
 - [ ] Data Flow Diagram (Detailed) - 10
 - [ ] System Diagram - 10
 - [ ] ERM Diagram - 8
-- [ ] Training Plan - 8
+- [x] Training Plan - 8
 - [x] Security Plan - 8
 - [ ] UI Designs (Diagram) - 10
 - [ ] Executive Summary - 5
@@ -31,4 +31,4 @@
   - [x] Use Case Document (Drawing/Model Creation) - 5
   - [x] Use Case Document (Drawing/Model Update) - 5
 
-Remaining: 56/129
+Remaining: 48/129
