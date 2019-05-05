@@ -30,10 +30,10 @@
   - A: No.
 
 - Q: How are the employees arranged in respect to a heirarchy, are employees distributed into small teams of 5? Large teams of 50? How many levels are there to the heirarchy? How many employees are in each level?
-  - A:
+  - A: Employee distribution is non-homogenous, various sized teams with multi-level heirarchies. There are designated "mentors" however.
 
 - Q: Will all 300 employees need to learn how to operate the software?
-  - A:
+  - A: Yes.
 
 - What level of security is required?
   - Maximum security, many contracts are for military applications.
