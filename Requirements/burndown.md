@@ -7,7 +7,7 @@
 - [ ] Data Flow Diagram (High Level) - 5
 - [ ] Data Flow Diagram (Detailed) - 10
 - [x] System Diagram - 10
-- [ ] ERM Diagram - 8
+- [x] ERM Diagram - 8
 - [x] Training Plan - 8
 - [x] Security Plan - 8
 - [ ] UI Designs (Diagram) - 10
@@ -31,4 +31,4 @@
   - [x] Use Case Document (Drawing/Model Creation) - 5
   - [x] Use Case Document (Drawing/Model Update) - 5
 
-Remaining: 38/129
+Remaining: 30/129
