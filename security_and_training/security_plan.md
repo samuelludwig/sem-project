@@ -21,3 +21,4 @@
 - All entrants into the server room will need their employee IDs pre-approved by a superior (ideally a system administrator) before entering, otherwise the scanner will not accept their RFID and will not let them in.
 - It is recommended to have security guards throughout the building, with two at minimum permanently stationed outside of the server room at all times.
 - Additional RFID scanners will be placed on each server cabniet, when permission to access the server room is given, it is also only given for particular/a particular server cabniet(s), it will not accept the RFID if it is not approved.
+- In the event of a fire in the server room, there will be a system in place that may be activated which will remove all oxygen from the room until it is deactivated.
