@@ -10,7 +10,29 @@
 - [x] ERM Diagram - 8
 - [x] Training Plan - 8
 - [x] Security Plan - 8
-- [ ] UI Designs (Diagram) - 10
+- [ ] UI Designs (Diagram) - 15
+  - [x] Masterscreen
+  - [x] Employee Options
+  - [x] Create New Employee
+  - [ ] Update Employee Info
+  - [ ] Update Employee Info
+  - [ ] Deactivate Employee
+  - [ ] Part Options
+  - [ ] Create New Part
+  - [ ] Update Part Info
+  - [ ] View Part Models
+  - [ ] Order Options
+  - [ ] Create New Order
+  - [ ] View Order Info
+  - [ ] Aircraft Options
+  - [ ] Create New Aircraft
+  - [ ] Update Aircraft Info
+  - [ ] View Aircraft Info
+  - [ ] Drawing/Model Options
+  - [ ] Create New Drawing/Model
+  - [ ] Update Drawing/Model
+  - [ ] View Drawing/Model
+
 - [ ] Executive Summary - 5
 
 - [x] Use Case Documents (TOTAL: 50)
@@ -31,4 +53,4 @@
   - [x] Use Case Document (Drawing/Model Creation) - 5
   - [x] Use Case Document (Drawing/Model Update) - 5
 
-Remaining: 30/129
+Remaining: 35/134
