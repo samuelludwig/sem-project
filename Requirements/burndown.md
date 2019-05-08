@@ -4,8 +4,8 @@
 
 - [x] 10 Interview Questions - 5
 - [x] Specifications Document - 10
-- [ ] Data Flow Diagram (High Level) - 5
-- [ ] Data Flow Diagram (Detailed) - 10
+- [x] Data Flow Diagram (High Level) - 5
+- [x] Data Flow Diagram (Detailed) - 10
 - [x] System Diagram - 10
 - [x] ERM Diagram - 8
 - [x] Training Plan - 8
@@ -53,4 +53,4 @@
   - [x] Use Case Document (Drawing/Model Creation) - 5
   - [x] Use Case Document (Drawing/Model Update) - 5
 
-Remaining: 20/134
+Remaining: 5/134
