@@ -33,7 +33,7 @@
   - [x] Update Drawing/Model
   - [x] View Drawing/Model
 
-- [ ] Executive Summary - 5
+- [x] Executive Summary - 5
 
 - [x] Use Case Documents (TOTAL: 50)
 
@@ -53,4 +53,4 @@
   - [x] Use Case Document (Drawing/Model Creation) - 5
   - [x] Use Case Document (Drawing/Model Update) - 5
 
-Remaining: 5/134
+Remaining: 0/134
